@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Amazon-Home-Page-Using-React/static/css/main.5c2045fe.css",
+    "main.js": "/Amazon-Home-Page-Using-React/static/js/main.1372ab85.js",
+    "static/js/787.ebd7646a.chunk.js": "/Amazon-Home-Page-Using-React/static/js/787.ebd7646a.chunk.js",
+    "index.html": "/Amazon-Home-Page-Using-React/index.html",
+    "main.5c2045fe.css.map": "/Amazon-Home-Page-Using-React/static/css/main.5c2045fe.css.map",
+    "main.1372ab85.js.map": "/Amazon-Home-Page-Using-React/static/js/main.1372ab85.js.map",
+    "787.ebd7646a.chunk.js.map": "/Amazon-Home-Page-Using-React/static/js/787.ebd7646a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c2045fe.css",
+    "static/js/main.1372ab85.js"
+  ]
+}
